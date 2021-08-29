@@ -1,0 +1,7 @@
+Database user
+username: dusancvetnic
+password: hfi8oPWffR7Dt1r5
+
+pristup:
+
+mongodb+srv://dusancvetnic:hfi8oPWffR7Dt1r5@clusterrma.ihdtk.mongodb.net/dostava_hrane?retryWrites=true&w=majority

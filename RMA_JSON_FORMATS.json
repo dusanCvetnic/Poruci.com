@@ -1,0 +1,355 @@
+-------------------
+CURRENT IP: 178.223.10.220
+-------------------
+
+/* DISH */
+
+{
+	"name" : "predjelo 1",
+	"price" : "500",
+	"description" : "Opis predjela 1",
+	"category" : "appetizer",
+	"restaurant" : ""
+}
+{"_id":{"$oid":"5fe3652faf6e5b3ef4778c1f"},"order":[],"name":"predjelo 1","price":{"$numberInt":"500"},"description":"Opis predjela 1","category":"appetizer","restaurant":{"$oid":"5fe36257af6e5b3ef4778c12"},"__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+{
+	"name" : "predjelo 2",
+	"price" : "500",
+	"description" : "Opis predjela 2",
+	"category" : "appetizer",
+	"restaurant" : ""
+}
+{"_id":{"$oid":"5fe3659faf6e5b3ef4778c24"},"order":[],"name":"predjelo 2","price":{"$numberInt":"500"},"description":"Opis predjela 2","category":"appetizer","restaurant":{"$oid":"5fe3626baf6e5b3ef4778c13"},"__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+{
+	"name" : "predjelo 3",
+	"price" : "500",
+	"description" : "Opis predjela 3",
+	"category" : "appetizer",
+	"restaurant" : ""
+}
+{"_id":{"$oid":"5fe365f6af6e5b3ef4778c29"},"order":[],"name":"predjelo 3","price":{"$numberInt":"500"},"description":"Opis predjela 3","category":"appetizer","restaurant":{"$oid":"5fe36274af6e5b3ef4778c14"},"__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+{
+	"name" : "supa 1",
+	"price" : "200",
+	"description" : "Opis supe 1",
+	"category" : "soup",
+	"restaurant" : ""
+}
+{"_id":{"$oid":"5fe3654daf6e5b3ef4778c20"},"order":[],"name":"supa 1","price":{"$numberInt":"200"},"description":"Opis supe 1","category":"soup","restaurant":{"$oid":"5fe36257af6e5b3ef4778c12"},"__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+{
+	"name" : "supa 2",
+	"price" : "200",
+	"description" : "Opis supe 2",
+	"category" : "soup",
+	"restaurant" : ""
+}
+{"_id":{"$oid":"5fe365b3af6e5b3ef4778c25"},"order":[],"name":"supa 2","price":{"$numberInt":"200"},"description":"Opis supe 2","category":"soup","restaurant":{"$oid":"5fe3626baf6e5b3ef4778c13"},"__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+{
+	"name" : "supa 3",
+	"price" : "200",
+	"description" : "Opis supe 3",
+	"category" : "soup",
+	"restaurant" : ""
+}
+{"_id":{"$oid":"5fe36606af6e5b3ef4778c2a"},"order":[],"name":"supa 3","price":{"$numberInt":"200"},"description":"Opis supe 3","category":"soup","restaurant":{"$oid":"5fe36274af6e5b3ef4778c14"},"__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+{
+	"name" : "salata 1",
+	"price" : "250",
+	"description" : "Opis salate 1",
+	"category" : "salad",
+	"restaurant" : ""
+}
+{"_id":{"$oid":"5fe36561af6e5b3ef4778c21"},"order":[],"name":"salata 1","price":{"$numberInt":"250"},"description":"Opis salate 1","category":"salad","restaurant":{"$oid":"5fe36257af6e5b3ef4778c12"},"__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+{
+	"name" : "salata 2",
+	"price" : "250",
+	"description" : "Opis salate 2",
+	"category" : "salad",
+	"restaurant" : ""
+}
+{"_id":{"$oid":"5fe365c4af6e5b3ef4778c26"},"order":[],"name":"salata 2","price":{"$numberInt":"250"},"description":"Opis salate 2","category":"salad","restaurant":{"$oid":"5fe3626baf6e5b3ef4778c13"},"__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+{
+	"name" : "salata 3",
+	"price" : "250",
+	"description" : "Opis salate 3",
+	"category" : "salad",
+	"restaurant" : ""
+}
+{"_id":{"$oid":"5fe36614af6e5b3ef4778c2b"},"order":[],"name":"salata 3","price":{"$numberInt":"250"},"description":"Opis salate 3","category":"salad","restaurant":{"$oid":"5fe36274af6e5b3ef4778c14"},"__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+{
+	"name" : "glavno jelo 1",
+	"price" : "1000",
+	"description" : "Opis glavnog jela 1",
+	"category" : "mainDish",
+	"restaurant" : ""
+}
+{"_id":{"$oid":"5fe36579af6e5b3ef4778c22"},"order":[],"name":"glavno jelo 1","price":{"$numberInt":"1000"},"description":"Opis glavnog jela 1","category":"mainDish","restaurant":{"$oid":"5fe36257af6e5b3ef4778c12"},"__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+{
+	"name" : "glavno jelo 2",
+	"price" : "1000",
+	"description" : "Opis glavnog jela 2",
+	"category" : "mainDish",
+	"restaurant" : ""
+}
+{"_id":{"$oid":"5fe365d3af6e5b3ef4778c27"},"order":[],"name":"glavno jelo 2","price":{"$numberInt":"1000"},"description":"Opis glavnog jela 2","category":"mainDish","restaurant":{"$oid":"5fe3626baf6e5b3ef4778c13"},"__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+{
+	"name" : "glavno jelo 3",
+	"price" : "1000",
+	"description" : "Opis glavnog jela 3",
+	"category" : "mainDish",
+	"restaurant" : ""
+}
+{"_id":{"$oid":"5fe36624af6e5b3ef4778c2c"},"order":[],"name":"glavno jelo 3","price":{"$numberInt":"1000"},"description":"Opis glavnog jela 3","category":"mainDish","restaurant":{"$oid":"5fe36274af6e5b3ef4778c14"},"__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+{
+	"name" : "dezert 1",
+	"price" : "300",
+	"description" : "Opis dezerta 1",
+	"category" : "dessert",
+	"restaurant" : ""
+}
+{"_id":{"$oid":"5fe36588af6e5b3ef4778c23"},"order":[],"name":"dezert 1","price":{"$numberInt":"300"},"description":"Opis dezerta 1","category":"dessert","restaurant":{"$oid":"5fe36257af6e5b3ef4778c12"},"__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+{
+	"name" : "dezert 2",
+	"price" : "300",
+	"description" : "Opis dezerta 2",
+	"category" : "dessert",
+	"restaurant" : ""
+}
+{"_id":{"$oid":"5fe365e5af6e5b3ef4778c28"},"order":[],"name":"dezert 2","price":{"$numberInt":"300"},"description":"Opis dezerta 2","category":"dessert","restaurant":{"$oid":"5fe3626baf6e5b3ef4778c13"},"__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+{
+	"name" : "dezert 3",
+	"price" : "300",
+	"description" : "Opis dezerta 3",
+	"category" : "dessert",
+	"restaurant" : ""
+}
+{"_id":{"$oid":"5fe36636af6e5b3ef4778c2d"},"order":[],"name":"dezert 3","price":{"$numberInt":"300"},"description":"Opis dezerta 3","category":"dessert","restaurant":{"$oid":"5fe36274af6e5b3ef4778c14"},"__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+/* ORDER */
+
+{
+	"totalPrice" : ,
+	"quantity" : [1, 2, 1, 1],
+	"dishes" : ["5fe3652faf6e5b3ef4778c1f", "5fe3654daf6e5b3ef4778c20", "5fe36561af6e5b3ef4778c21", "5fe36579af6e5b3ef4778c22"],
+	"user" : "5fe36379af6e5b3ef4778c16"
+}
+{"_id":{"$oid":"5fe36adbaf6e5b3ef4778c2f"},"quantity":[{"$numberInt":"1"},{"$numberInt":"2"},{"$numberInt":"1"},{"$numberInt":"1"}],"dishes":[{"$oid":"5fe3652faf6e5b3ef4778c1f"},{"$oid":"5fe3654daf6e5b3ef4778c20"},{"$oid":"5fe36561af6e5b3ef4778c21"},{"$oid":"5fe36579af6e5b3ef4778c22"}],"totalPrice":{"$numberInt":"2150"},"user":{"$oid":"5fe36379af6e5b3ef4778c16"},"__v":{"$numberInt":"0"}}
+
+/* RESTAURANT */
+
+{
+	"name" : "Restoran 1",
+	"address" : "Restoran 1 adresa",
+	"email" : "restoran1@mail.com",
+	"phone" : "0038111111111",
+	"dish" : ["5fe3652faf6e5b3ef4778c1f" , "5fe3654daf6e5b3ef4778c20", "5fe36561af6e5b3ef4778c21", "5fe36579af6e5b3ef4778c22", "5fe36588af6e5b3ef4778c23"],
+	"manager" : "5fe363d5af6e5b3ef4778c18",
+	"order" : "5fe36adbaf6e5b3ef4778c2f"
+}
+{"_id":{"$oid":"5fe37185562d2c23d0102c4b"},"dish":[{"$oid":"5fe3652faf6e5b3ef4778c1f"},{"$oid":"5fe3654daf6e5b3ef4778c20"},{"$oid":"5fe36561af6e5b3ef4778c21"},{"$oid":"5fe36579af6e5b3ef4778c22"},{"$oid":"5fe36588af6e5b3ef4778c23"}],"order":[{"$oid":"5fe36adbaf6e5b3ef4778c2f"}],"name":"Restoran 1","address":"Restoran 1 adresa","email":"restoran1@mail.com","phone":"0038111111111","manager":{"$oid":"5fe363d5af6e5b3ef4778c18"},"__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+{
+	"name" : "Restoran 2",
+	"address" : "Restoran 2 adresa",
+	"email" : "restoran2@mail.com",
+	"phone" : "0038112222222",
+	"dish" : ["5fe3659faf6e5b3ef4778c24" , "5fe365b3af6e5b3ef4778c25", "5fe365c4af6e5b3ef4778c26", "5fe365d3af6e5b3ef4778c27", "5fe365e5af6e5b3ef4778c28"],
+	"manager" : "5fe363f2af6e5b3ef4778c19"
+	
+}
+{"_id":{"$oid":"5fe37249562d2c23d0102c4c"},"dish":[{"$oid":"5fe3659faf6e5b3ef4778c24"},{"$oid":"5fe365b3af6e5b3ef4778c25"},{"$oid":"5fe365c4af6e5b3ef4778c26"},{"$oid":"5fe365d3af6e5b3ef4778c27"},{"$oid":"5fe365e5af6e5b3ef4778c28"}],"order":[],"name":"Restoran 2","address":"Restoran 2 adresa","email":"restoran2@mail.com","phone":"0038112222222","manager":{"$oid":"5fe363f2af6e5b3ef4778c19"},"__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+{
+	"name" : "Restoran 3",
+	"address" : "Restoran 3 adresa",
+	"email" : "restoran3@mail.com",
+	"phone" : "0038113333333",
+	"dish" : ["5fe365f6af6e5b3ef4778c29" , "5fe36606af6e5b3ef4778c2a", "5fe36614af6e5b3ef4778c2b", "5fe36624af6e5b3ef4778c2c", "5fe36636af6e5b3ef4778c2d"],
+	"manager" : "5fe36404af6e5b3ef4778c1a"
+}
+{"_id":{"$oid":"5fe372b8562d2c23d0102c4d"},"dish":[{"$oid":"5fe365f6af6e5b3ef4778c29"},{"$oid":"5fe36606af6e5b3ef4778c2a"},{"$oid":"5fe36614af6e5b3ef4778c2b"},{"$oid":"5fe36624af6e5b3ef4778c2c"},{"$oid":"5fe36636af6e5b3ef4778c2d"}],"order":[],"name":"Restoran 3","address":"Restoran 3 adresa","email":"restoran3@mail.com","phone":"0038113333333","manager":{"$oid":"5fe36404af6e5b3ef4778c1a"},"__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+/* USER */
+brojevi usera ako su admini 0038163.. ako su useri 0038164.. ako su menadzeri 0038165.. ako su dostavljaci 0038166..
+
+-----ADMIN-----
+
+{
+	"name" : "Dusan",
+	"surname" : "Cvetnic",
+	"email" : "dcvetnic@mail.com",
+	"phone" : "0038631111111",
+	"password" : "admin1",
+	"address" : "Dusanova ulica",
+	"role" : "admin"
+}
+{"_id":{"$oid":"5fe36363af6e5b3ef4778c15"},"role":"admin","order":[],"name":"Dusan","surname":"Cvetnic","email":"dcvetnic@mail.com","phone":"0038631111111","password":"admin1","address":"Dusanova ulica","__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+-----USER-----
+
+{
+	"name" : "Pera",
+	"surname" : "Peric",
+	"email" : "pperic@mail.com",
+	"phone" : "0038641111111",
+	"password" : "111111",
+	"address" : "Perina ulica",
+	"role" : "user"
+}
+{"_id":{"$oid":"5fe36379af6e5b3ef4778c16"},"role":"user","order":[],"name":"Pera","surname":"Peric","email":"pperic@mail.com","phone":"0038641111111","password":"111111","address":"Perina ulica","__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+{
+	"name" : "Mika",
+	"surname" : "Mikic",
+	"email" : "mmikic@mail.com",
+	"phone" : "0038642222222",
+	"password" : "222222",
+	"address" : "Mikina ulica",
+	"role" : "user"
+}
+{"_id":{"$oid":"5fe36384af6e5b3ef4778c17"},"role":"user","order":[],"name":"Mika","surname":"Mikic","email":"mmikic@mail.com","phone":"0038642222222","password":"222222","address":"Mikina ulica","__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+-----MANAGER-----
+
+{
+	"name" : "Jovan",
+	"surname" : "Jovanovic",
+	"email" : "jjovanovic@mail.com",
+	"phone" : "0038651111111",
+	"password" : "333333",
+	"address" : "Jovanova ulica",
+	"role" : "manager",
+	"restaurant" : ""
+}
+{"_id":{"$oid":"5fe363d5af6e5b3ef4778c18"},"role":"manager","order":[],"name":"Jovan","surname":"Jovanovic","email":"jjovanovic@mail.com","phone":"0038651111111","password":"333333","address":"Jovanova ulica","restaurant":{"$oid":"5fe36257af6e5b3ef4778c12"},"__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+{
+	"name" : "Zorana",
+	"surname" : "Zoric",
+	"email" : "zzoric@mail.com",
+	"phone" : "0038652222222",
+	"password" : "444444",
+	"address" : "Zoranina ulica",
+	"role" : "manager",
+	"restaurant" : ""
+}
+{"_id":{"$oid":"5fe363f2af6e5b3ef4778c19"},"role":"manager","order":[],"name":"Zorana","surname":"Zoric","email":"zzoric@mail.com","phone":"0038652222222","password":"444444","address":"Zoranina ulica","restaurant":{"$oid":"5fe3626baf6e5b3ef4778c13"},"__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+{
+	"name" : "Jelena",
+	"surname" : "Jelic",
+	"email" : "jjelic@mail.com",
+	"phone" : "0038653333333",
+	"password" : "555555",
+	"address" : "Jelenina ulica",
+	"role" : "manager",
+	"restaurant" : ""
+}
+{"_id":{"$oid":"5fe36404af6e5b3ef4778c1a"},"role":"manager","order":[],"name":"Jelena","surname":"Jelic","email":"jjelic@mail.com","phone":"0038653333333","password":"555555","address":"Jelenina ulica","restaurant":{"$oid":"5fe36274af6e5b3ef4778c14"},"__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+-----DELIVERY-----
+
+{
+	"name" : "Marko",
+	"surname" : "Markovic",
+	"email" : "mmarkovic@mail.com",
+	"phone" : "0038661111111",
+	"password" : "666666",
+	"address" : "Markova ulica",
+	"role" : "delivery"
+}
+{"_id":{"$oid":"5fe36410af6e5b3ef4778c1b"},"role":"delivery","order":[],"name":"Marko","surname":"Markovic","email":"mmarkovic@mail.com","phone":"0038661111111","password":"666666","address":"Markova ulica","__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+{
+	"name" : "Marina",
+	"surname" : "Marinkovic",
+	"email" : "mmarinkovic@mail.com",
+	"phone" : "0038662222222",
+	"password" : "777777",
+	"address" : "Marinina ulica",
+	"role" : "delivery"
+}
+{"_id":{"$oid":"5fe36418af6e5b3ef4778c1c"},"role":"delivery","order":[],"name":"Marina","surname":"Marinkovic","email":"mmarinkovic@mail.com","phone":"0038662222222","password":"777777","address":"Marinina ulica","__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+{
+	"name" : "Milovan",
+	"surname" : "Milovanovic",
+	"email" : "mmilovanovic@mail.com",
+	"phone" : "0038663333333",
+	"password" : "888888",
+	"address" : "Milovanova ulica",
+	"role" : "delivery"
+}
+{"_id":{"$oid":"5fe3649daf6e5b3ef4778c1e"},"role":"delivery","order":[],"name":"Milovan","surname":"Milovanovic","email":"mmilovanovic@mail.com","phone":"0038663333333","password":"888888","address":"Milovanova ulica","__v":{"$numberInt":"0"}}
+
+---------------------------------------------------
+
+-----PODACI SA ID-jevima-----
+
+
